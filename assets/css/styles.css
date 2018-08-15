@@ -19,7 +19,8 @@ section{
 }
 
 .section-1 {
-	background: #063647;
+	background: #85adad;
+  color: white;
 }
 
 .section-2 {
@@ -50,6 +51,7 @@ a.nav-item:hover {
 
 .intro-description{
 	padding-top: 1rem;
+  font-weight: 1000;
 }
 
 .social-container img{
@@ -65,7 +67,7 @@ a.nav-item:hover {
 }
 
 .project-text {
-	text-align: justify;
+	text-align: left;
 }
 
 .box {
