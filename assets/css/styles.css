@@ -98,8 +98,7 @@ a.nav-item:hover {
 
 #img-circle {
     border-radius: 50%;
-    border: .50vw solid transparent;
-    box-shadow: 0 0 0 0.50vw seashell;
+    box-shadow: 0 0 0 0.70vw seashell;
     width: 15vw;
     height: 15vw;
     position: relative;
