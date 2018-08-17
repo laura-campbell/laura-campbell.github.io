@@ -13,8 +13,8 @@ p {
   font-family: 'Dosis', sans-serif;
 }
 
-p:hover {
-  background-color: #00d1b2;
+span:hover {
+  color: white;
 }
 
 section{
