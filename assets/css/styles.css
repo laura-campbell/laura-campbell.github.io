@@ -17,9 +17,8 @@ a:hover {
   color: #00d1b2;
 }
 
-bio:hover {
-  color: white;
-  transition: .5s;
+p:hover {
+  color: #00d1b2;
 }
 
 section{
