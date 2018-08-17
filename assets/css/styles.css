@@ -13,7 +13,7 @@ p {
   font-family: 'Dosis', sans-serif;
 }
 
-p:hover {
+#bio:hover {
   color: white;
 }
 
