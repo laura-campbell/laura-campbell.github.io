@@ -53,6 +53,11 @@ a.nav-item:hover {
 	color: #fff;
 }
 
+.avatar{
+	height:200px;
+	border-radius: 50%;
+}
+
 .intro-description{
 	padding-top: 1rem;
   font-weight: 1000;
@@ -91,11 +96,11 @@ a.nav-item:hover {
 	margin: 0 auto;
 }
 
-.img-circle {
+#img-circle {
     border-radius: 50%;
     border: .25vw solid lightblue;
     box-shadow: 0 0 0 0.25vw #000;
-    width: 200px;
+    width: 15vw;
     height: 15vw;
     margin-top: -5%;
     position: relative;
