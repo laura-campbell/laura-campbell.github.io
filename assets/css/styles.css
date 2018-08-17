@@ -17,6 +17,11 @@ a:hover {
   color: #00d1b2;
 }
 
+p:hover {
+  color: white;
+  transition: .5s;
+}
+
 section{
 	padding-top: 0rem;
 	padding-bottom: 3rem;
