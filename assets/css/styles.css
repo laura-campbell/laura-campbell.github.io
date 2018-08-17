@@ -13,7 +13,7 @@ p {
   font-family: 'Dosis', sans-serif;
 }
 
-span:hover {
+p:hover {
   color: white;
 }
 
