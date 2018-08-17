@@ -98,11 +98,9 @@ a.nav-item:hover {
 
 #img-circle {
     border-radius: 50%;
-    border: .25vw solid lightblue;
-    box-shadow: 0 0 0 0.25vw #000;
+    box-shadow: 0 0 0 0.75vw lightblue;
     width: 15vw;
     height: 15vw;
-    margin-top: -5%;
     position: relative;
 }
 
