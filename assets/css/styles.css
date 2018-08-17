@@ -9,6 +9,10 @@ a {
   color: #00d1b2;
 }
 
+p {
+  font-family: 'Dosis', sans-serif;
+}
+
 a:hover {
   color: #00d1b2;
 }
