@@ -1,0 +1,49 @@
+
+title = "Laura Campbell"
+baseURL = "https://laura-campbell.github.io/"
+tags = ["portfolio", "web design", "blog"]
+languageCode = "en-US"
+config = "config.toml"
+theme = "osprey"
+canonifyURLS = true
+googleAnalytics = ""
+disqusShortname = "tomanistor"
+disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
+
+[Params]
+    tagline = "Hello World, I'm Laura"
+    author = "Laura Campbell"
+    description = "Full-stack web developer & user experience enthusiast based in New York City."
+    logoBig = "/images/lc-alternate.png"
+    logoSmall = "/images/lc-alternate.png"
+    favicon = "favicon.ico"
+    opengraphImage = "/images/osprey.png"
+    linkedin = "lauraelizabethc"
+    github = "laura-campbell"
+    facebook = ""
+    email = "campbell.laura.elizabeth@gmail.com"
+    googleTagManager = ""
+    highlightJS = true
+    copyright = true
+    credit = true
+    customCSS = false
+    cacheBustCSS = false
+    cacheBustJS = false
+    ajaxFormspree = true
+
+[[menu.main]]
+    name = "About"
+    url  = "/#about"
+    weight = 1
+[[menu.main]]
+    name = "Work"
+    url  = "/#work"
+    weight = 2
+[[menu.main]]
+    name = "Blog"
+    url  = "/#blog"
+    weight = 3
+[[menu.main]]
+    name = "Contact"
+    url  = "/#contact"
+    weight = 4
